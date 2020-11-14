@@ -1,0 +1,35 @@
+{
+  "name": "whatsappbot",
+  "version": "1.0.0",
+  "description": "Basic chat-bot to send and reply messeges.",
+  "main": "autoTelemarketing_v2.js",
+  "scripts": {
+    "test": "node autoTelemarketing_v2.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/matheus-bordin-gomes/whatsappbot.git"
+  },
+  "keywords": [
+    "chatbot",
+    "whatsapp"
+  ],
+  "author": "Matheus Bordin Gomes",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/matheus-bordin-gomes/whatsappbot/issues"
+  },
+  "homepage": "https://github.com/matheus-bordin-gomes/whatsappbot#readme",
+  "dependencies": {
+    "node-fetch": "^2.6.1",
+    "prompt-sync": "^4.2.0"
+  },
+  "devDependencies": {
+    "eslint": "^7.12.1",
+    "eslint-config-standard": "^16.0.1",
+    "eslint-plugin-import": "^2.22.1",
+    "eslint-plugin-node": "^11.1.0",
+    "eslint-plugin-promise": "^4.2.1",
+    "eslint-plugin-standard": "^4.0.2"
+  }
+}

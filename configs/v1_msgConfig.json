@@ -1,0 +1,12 @@
+{   
+    "msg": "Oi, tudo bem? no1",
+    "personalizedMsg": { "begin": "Oi, ",
+                         "end": ". Tudo bem?."
+                        },
+    "reply": "Eu estou bem! no. 1",
+    "firstFileLink": "",
+    "firstFileName": "",
+    "secondFileLink": "",
+    "secondFileName": "",
+    "audioLink": ""
+}

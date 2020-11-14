@@ -1,0 +1,7 @@
+{
+    "chatApiToken": "",
+    "chatApiInstanceId": "", 
+    "msgsPerMinuteRange": [9, 10],
+    "replyDelayRange" : [10, 20],
+    "verifyNewMsgsPeriod" : 10
+}

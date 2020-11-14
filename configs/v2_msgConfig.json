@@ -1,0 +1,9 @@
+{   
+    "apresentation": "Oi. Quer que eu fale sobre 1, 2 ou 3?",
+    "persApresentation": { "begin": "Oi, ", 
+                            "end" : ". Quer que eu fale sobre 1, 2 ou 3?"},
+    "replyOptions": ["Falando sobre 1... E agora, quer que eu fale sobre o que?", 
+                     "Falando sobre 2... E agora, quer que eu fale sobre o que?", 
+                     "Falando sobre 3... E agora, quer que eu fale sobre o que?"],   
+    "wrongChoiceReply": "Desculpe-me, não entendi. Quer que eu fale sobre 1, 2 ou 3?"
+}
